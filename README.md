@@ -1,2 +1,3 @@
 # pingponggame
-i love this
+this is jast ping-pong
+donations and criticism are welcome:)
